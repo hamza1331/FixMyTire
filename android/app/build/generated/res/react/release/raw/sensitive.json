@@ -1,0 +1,13 @@
+{
+    "BUCKET": "sokhay",
+    "ACCESS_KEY": "AKIAT2EWSATDDF4C4SFO",
+    "SECRET_KEY": "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",
+    "APIKEY": "AIzaSyBYQjLVmLRf6QW2Jx9teyQ2yufxB4JJi1E",
+    "keyPrefix": "uploads/",
+    "region": "ap-south-1", 
+    "authDomain": "sokhaypenday.firebaseapp.com",
+    "databaseURL": "https://sokhaypenday.firebaseio.com",
+    "projectId": "sokhaypenday",
+    "storageBucket": "sokhaypenday.appspot.com",
+    "messagingSenderId": "1040470452352"
+}

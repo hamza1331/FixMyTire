@@ -1,0 +1,4 @@
+#Mon Dec 30 18:11:20 PKT 2019
+base.0=/Users/shaggy/iCloud Drive (Archive) - 3/Documents/sokhaypainday/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
